@@ -1,2 +1,18 @@
-# Python-TEMPLATE
-A basic "cookie cutter" template for starting a new Python program. (I plan to develop this to personal preference over time)
+# Name
+This is a description.
+
+---
+
+<br>
+
+## Installation
+
+Using [setup.py](https://github.com/kennethreitz/setup.py) to install the program & its dependencies.
+
+```python
+
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
